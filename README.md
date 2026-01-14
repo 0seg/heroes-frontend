@@ -1,4 +1,4 @@
-# Heroes App — Descripción profesional
+# Heroes App
 
 ## Resumen del proyecto
 
@@ -33,7 +33,7 @@
 - Separación entre componentes presentacionales y componentes con lógica (contenedores/hooks) para facilitar testing y reuso.
 - Hooks personalizados para encapsular lógica de negocio y abstraer detalles de consumo de la API.
 
-## Presentación profesional
+## Resumen ejecutivo
 
 El proyecto está desarrollado siguiendo buenas prácticas de ingeniería: estructura modular, tipado con TypeScript y convenciones de código que facilitan revisión, mantenimiento y trabajo en equipo. Está pensado para ser entregable en entornos reales y sencillo de integrar con el backend.
 
